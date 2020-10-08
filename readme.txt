@@ -1,6 +1,6 @@
 测试合并
 <<<<<<< HEAD
-dev
+master
 =======
 dev
 >>>>>>> dev
